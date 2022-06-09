@@ -18,8 +18,8 @@
 
 
 <h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=RobertMefford&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertMefford&layout=compact&theme=merko&count_private=true" /> 
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=RobertMefford&show_icons=true&theme=gotham&count_private=true" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertMefford&layout=compact&theme=gotham&count_private=true" /> 
 <img height="150px" />
 <br/>  
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
