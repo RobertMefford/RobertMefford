@@ -7,7 +7,9 @@
 
   Experienced software developer proficient in many platforms and tools, focused on delivering business value through quality software.
   <br />
+  <br />
   I am equally comfortable discussing requirements in the language of the business as I am in heads-down coding sprints.
+  <br />
   <br />
   I can take hard problems from conception to production, designing a big picture and sweating the details. Collaborate with creative and development teams on the execution of ideas and projects.
 </div>
