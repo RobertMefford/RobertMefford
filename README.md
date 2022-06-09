@@ -2,13 +2,15 @@
 
 ### Senior Full-Stack Developer <p align="center"> <img src="https://komarev.com/ghpvc/?username=RobertMefford&label=Profile%20views&color=0e75b6&style=flat" alt="RobertMefford" /> </p>
 
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="400" />
+<div>
+  <img align="right" alt="GIF" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="400" />
 
-Experienced software developer proficient in many platforms and tools, focused on delivering business value through quality software.
-<br />
-I am equally comfortable discussing requirements in the language of the business as I am in heads-down coding sprints.
-<br />
-I can take hard problems from conception to production, designing a big picture and sweating the details. Collaborate with creative and development teams on the execution of ideas and projects.
+  Experienced software developer proficient in many platforms and tools, focused on delivering business value through quality software.
+  <br />
+  I am equally comfortable discussing requirements in the language of the business as I am in heads-down coding sprints.
+  <br />
+  I can take hard problems from conception to production, designing a big picture and sweating the details. Collaborate with creative and development teams on the execution of ideas and projects.
+</div>
 
 ####      ![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Node-blue) ![](https://img.shields.io/badge/Express-blue) ![](https://img.shields.io/badge/JavaScript-blue) ![](https://img.shields.io/badge/TypeScript-blue)  ![](https://img.shields.io/badge/Django-blue) ![](https://img.shields.io/badge/Laravel-blue) ![](https://img.shields.io/badge/Next-blue) ![](https://img.shields.io/badge/Next.js-blue) ![](https://img.shields.io/badge/MySQL-blue) ![](https://img.shields.io/badge/Mongo-blue) ![](https://img.shields.io/badge/Postgres-blue) ![](https://img.shields.io/badge/AWS-blue) ![](https://img.shields.io/badge/CI/CD-blue)
 
