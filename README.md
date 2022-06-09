@@ -167,5 +167,8 @@
 <h2 font-weight="bold"> My Work </h2>
 <table>
   <tr>
+    <td>
+      <img src="https://github.com/RobertMefford/RobertMefford/blob/main/e-com-dashboard.png" width="200" height="300" />
+    </td>
   </tr>
 </table>
