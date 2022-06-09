@@ -21,9 +21,10 @@ Experienced software developer proficient in many platforms and tools, focused o
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/php-99-1175127.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/codeigniter-5-1175246.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/laravel-2-1175146.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/vuejs-3-1175070.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/jquery-7-1175152.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/yii-2-1175059.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/vuejs-3-1175070.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/python-20-1175115.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-128/django-13-1175187.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/html5-40-1175193.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/css3-11-1175239.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/sass-13-1175092.png" width="100"></td>
@@ -32,8 +33,6 @@ Experienced software developer proficient in many platforms and tools, focused o
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/mysql-4-226026.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/redis-6-1175105.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/python-20-1175115.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/django-13-1175187.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/java-22-225997.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/swift-21-1175088.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/android-245-1175273.png" width="100"></td>
