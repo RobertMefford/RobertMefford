@@ -174,7 +174,7 @@
       <h4> Admin Dashboard Template </h4>
       <br />
       <p> We've created the multipurpose admin panel which allows to create a dashboard for the different business area. There is a bunch of elements for the creation of unique blocks and widgets. </p>
-      <p> We used React, Redux, React-Router, Sass, BootStrap to build this template.
+      <p> We used React, Redux, React-Router, Sass, BootStrap to build this template. </p>
     </td>
   </tr>
   <tr>
