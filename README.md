@@ -143,6 +143,9 @@ Experienced software developer proficient in many platforms and tools, focused o
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
     </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
+    </td>
   
   </tr>
 </table>
