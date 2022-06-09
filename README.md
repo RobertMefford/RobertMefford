@@ -149,7 +149,7 @@ Experienced software developer proficient in many platforms and tools, focused o
   
   </tr>
 </table>
-<h2 font-weight="bold>What I can do</h2>
+<h2 font-weight="bold">What I can do</h2>
 <hr />
 
 <div>
