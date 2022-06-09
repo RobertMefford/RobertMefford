@@ -1,6 +1,8 @@
 ### Senior Full-Stack Developer <p align="center"> <img src="https://komarev.com/ghpvc/?username=RobertMefford&label=Profile%20views&color=0e75b6&style=flat" alt="RobertMefford" /> </p>
 
-Experienced software developer proficient in many platforms and tools, focused on delivering business value through quality software. I am equally comfortable discussing requirements in the language of the business as I am in heads-down coding sprints. I can take hard problems from conception to production, designing a big picture and sweating the details. Collaborate with creative and development teams on the execution of ideas and projects.
+Experienced software developer proficient in many platforms and tools, focused on delivering business value through quality software.
+I am equally comfortable discussing requirements in the language of the business as I am in heads-down coding sprints.
+I can take hard problems from conception to production, designing a big picture and sweating the details. Collaborate with creative and development teams on the execution of ideas and projects.
 
 ####      ![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Node-blue) ![](https://img.shields.io/badge/Express-blue) ![](https://img.shields.io/badge/JavaScript-blue) ![](https://img.shields.io/badge/TypeScript-blue)  ![](https://img.shields.io/badge/Django-blue) ![](https://img.shields.io/badge/Laravel-blue) ![](https://img.shields.io/badge/Next-blue) ![](https://img.shields.io/badge/Next.js-blue) ![](https://img.shields.io/badge/MySQL-blue) ![](https://img.shields.io/badge/Mongo-blue) ![](https://img.shields.io/badge/Postgres-blue) ![](https://img.shields.io/badge/AWS-blue) ![](https://img.shields.io/badge/CI/CD-blue)
 
