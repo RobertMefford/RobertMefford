@@ -11,7 +11,10 @@
   I am equally comfortable discussing requirements in the language of the business as I am in heads-down coding sprints.
   <br />
   <br />
-  I can take hard problems from conception to production, designing a big picture and sweating the details. Collaborate with creative and development teams on the execution of ideas and projects.
+  I can take hard problems from conception to production, designing a big picture and sweating the details.
+  <br />
+  <br />
+  Collaborate with creative and development teams on the execution of ideas and projects.
 </div>
 
 ####      ![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Node-blue) ![](https://img.shields.io/badge/Express-blue) ![](https://img.shields.io/badge/JavaScript-blue) ![](https://img.shields.io/badge/TypeScript-blue)  ![](https://img.shields.io/badge/Django-blue) ![](https://img.shields.io/badge/Laravel-blue) ![](https://img.shields.io/badge/Next-blue) ![](https://img.shields.io/badge/Next.js-blue) ![](https://img.shields.io/badge/MySQL-blue) ![](https://img.shields.io/badge/Mongo-blue) ![](https://img.shields.io/badge/Postgres-blue) ![](https://img.shields.io/badge/AWS-blue) ![](https://img.shields.io/badge/CI/CD-blue)
