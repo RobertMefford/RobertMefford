@@ -168,7 +168,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/RobertMefford/RobertMefford/blob/main/e-com-dashboard.png" width="300" height="350" />
+      <img src="https://github.com/RobertMefford/RobertMefford/blob/main/e-com-dashboard.png" width="150" height="200" />
     </td>
     <td>
       <h4> Admin Dashboard Template </h4>
