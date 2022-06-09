@@ -1,3 +1,5 @@
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+
 ### Senior Full-Stack Developer <p align="center"> <img src="https://komarev.com/ghpvc/?username=RobertMefford&label=Profile%20views&color=0e75b6&style=flat" alt="RobertMefford" /> </p>
 
 Experienced software developer proficient in many platforms and tools, focused on delivering business value through quality software.
