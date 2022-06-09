@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="400" />
 
 ### Senior Full-Stack Developer <p align="center"> <img src="https://komarev.com/ghpvc/?username=RobertMefford&label=Profile%20views&color=0e75b6&style=flat" alt="RobertMefford" /> </p>
 
@@ -155,21 +155,3 @@ I can take hard problems from conception to production, designing a big picture 
   
   </tr>
 </table>
-<h2 font-weight="bold">What I can do</h2>
-<div>
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="400" />
- 
-### Online Website building and Mobile app
-<br />
-
-### Best Front-end Developing with Morder Front-end Frameworks
-<br />
-
-### MERN, MEAN, Laravel&Vue Full-Stack Web Developing
-<br />
-
-### Perfect Web Scraping, Bot building
-<br />  
-
-</div>
-<br />
