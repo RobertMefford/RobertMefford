@@ -1,6 +1,6 @@
   ### Hello There!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
-### Senior Full-Stack Developer <p align="center"> <img src="https://komarev.com/ghpvc/?username=RobertMefford&label=Profile%20views&color=0e75b6&style=flat" alt="RobertMefford" /> </p>
+### Senior Full-Stack Developer <p align="center"> <img src="https://komarev.com/ghpvc/?username=robert-mefford&label=Profile%20views&color=0e75b6&style=flat" alt="robert-mefford" /> </p>
 
 <div>
   <img align="right" alt="GIF" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="300" />
@@ -21,8 +21,8 @@
 
 
 <h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=RobertMefford&show_icons=true&theme=gotham&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertMefford&layout=compact&theme=gotham&count_private=true" /> 
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=robert-mefford&show_icons=true&theme=gotham&count_private=true" />
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert-mefford&layout=compact&theme=gotham&count_private=true" /> 
 <img height="150px" />
 <br/>  
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
