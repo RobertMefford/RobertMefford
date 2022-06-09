@@ -170,5 +170,14 @@
     <td>
       <img src="https://github.com/RobertMefford/RobertMefford/blob/main/e-com-dashboard.png" width="200" height="300" />
     </td>
+    <td>
+      <h5> Admin Dashboard Template </h5>
+      <br />
+      <p> We've created the multipurpose admin panel which allows to create a dashboard for the different business area. There is a bunch of elements for the creation of unique blocks and widgets. </p>
+      <br />
+      <p> We used React, Redux, React-Router, Sass, BootStrap to build this template.
+    </td>
+  </tr>
+  <tr>
   </tr>
 </table>
