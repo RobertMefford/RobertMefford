@@ -14,7 +14,7 @@ Experienced software developer proficient in many platforms and tools, focused o
 <table>
   <tr>
     <td>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="400" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100" />
     </td>
   </tr>
   <tr>
