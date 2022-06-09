@@ -1,4 +1,4 @@
-
+  ### Hello There!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
 ### Senior Full-Stack Developer <p align="center"> <img src="https://komarev.com/ghpvc/?username=RobertMefford&label=Profile%20views&color=0e75b6&style=flat" alt="RobertMefford" /> </p>
 
